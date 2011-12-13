@@ -1,3 +1,7 @@
+Simple blog engine in Mojolicious
+
+made by Mateusz Kmiecik for GCI contest
+
 INSTALL INSTRUCTIONS:
 
 Just download blog.pl and type in console:
