@@ -4,5 +4,8 @@ made by Mateusz Kmiecik for GCI contest
 
 INSTALL INSTRUCTIONS:
 
-Just download blog.pl and type in console:
-	morbo blog.pl
+1. Install Mojolicious:
+   cpanm Mojolicious
+
+2. Just download blog.pl and type in console:
+   morbo blog.pl
